@@ -1,0 +1,13 @@
+start [<Process name='Process-1' pid=28412 parent=28411 started>]
+start [<Process name='Process-2' pid=28413 parent=28411 started>]
+in queu /home/sasha/dpi/1628069450_0.csv.gz
+in queu /home/sasha/dpi/1628068850_0.csv.gz
+in queu /home/sasha/dpi/1628068430_0.csv.gz
+in queu /home/sasha/dpi/1628068670_0.csv.gz
+in queu /home/sasha/dpi/1628068790_0.csv.gz
+in queu /home/sasha/dpi/1628069150_0.csv.gz
+in queu /home/sasha/dpi/1628068730_0.csv.gz
+in queu /home/sasha/dpi/1628068610_0.csv.gz
+in queu /home/sasha/dpi/1628068550_0.csv.gz
+in queu /home/sasha/dpi/1628068910_0.csv.gz
+in queu /home/sasha/dpi/1628069090_0.csv.gz
